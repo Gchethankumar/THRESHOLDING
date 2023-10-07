@@ -29,8 +29,8 @@ Display the results.
 ## Program
 
 ```python
-## Developed by:G.Chethan Kumar
-## Register No: 212222240022
+Developed by:G.Chethan Kumar
+Register No: 212222240022
 ```
 
 ### Load the necessary packages
